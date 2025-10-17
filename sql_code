@@ -1,0 +1,11 @@
+SELECT 
+    [EmployeeNumber],
+    [Age],
+    [Gender],
+    [Department],
+    [JobRole],
+    [Attrition],
+    [YearsAtCompany],
+    [TotalWorkingYears],
+    [NumCompaniesWorked]
+FROM project;
